@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or mathematical framework, please cite both the foundational manuscript and this repository."
+title: "Geometry of Integers: Reference Python Library for Foliated Arithmetic"
+authors:
+  - family-names: "Baloui"
+    given-names: "Hassan"
+    email: "hassan.baloui@gmail.com"
+version: 1.0.0
+date-released: 2026-10-19
+license: MIT
+url: "https://www.new-mathematical-concepts.org"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23456718
+    description: "Foundational Manuscript on Zenodo"
+keywords:
+  - "Geometry of Integers"
+  - "integer foliation"
+  - "foliated arithmetic"
+  - "non-commutative arithmetic"
+  - "Chebyshev geodesic metric"
+  - "Fundamental Theorem of Arithmetic"
+  - "discrete holonomy"
+  - "discrete curvature"
+  - "arithmetic holography"
+  - "number theory"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Baloui"
+      given-names: "Hassan"
+  title: "Geometry of Integers"
+  year: 2026
+  month: 10
+  publisher:
+    name: "Zenodo"
+  doi: "10.5281/zenodo.23456718"
+  url: "https://doi.org/10.5281/zenodo.23456718"
